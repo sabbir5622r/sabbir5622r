@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Detect Chat Generative Platform using ML, DL and NLP**
 
-- 🌱 I’m currently learning **Cyber Security and JavaScript**
+- 🌱 I’m currently learning **Cyber Security and JavaScript.**
 
-- 👯 I’m looking to collaborate on **Any Machine Learning, Deep Learning and Natural Language Processing and Cyber Security related research**
+- 👯 I’m looking to collaborate on **Any Machine Learning, Deep Learning and Natural Language Processing and Cyber Security related research project.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sabbir5622r](https://github.com/sabbir5622r)
 
-- 📫 You can reach me via: **sabbirhossen5622@gmail.com**
+- 📫 Reach me **sabbirhossen5622@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
