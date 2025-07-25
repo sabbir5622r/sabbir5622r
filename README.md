@@ -58,10 +58,13 @@
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Adobe Photoshop" />
   <img src="https://img.shields.io/badge/Mendeley-9A1F2E?style=for-the-badge&logo=mendeley&logoColor=white" alt="Mendeley" />
-</p>
 
 
-# 📊 GitHub Stats:
+
+
+<h5 align="left">📊 GitHub Stats:</h5>
+
 ![](https://github-readme-stats.vercel.app/api?username=sabbir5622r&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sabbir5622r&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir5622r&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
