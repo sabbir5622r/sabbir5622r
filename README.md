@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sabbir Hossen</h1>
-<h3 align="center">I’m Sabbir Hossen, a Computer Science graduate passionate about Machine Learning, especially in Computer Vision and Natural Language Processing.</h3>
+<h1 align="center">Sabbir Hossen</h1>
+<h3 align="center">Hi 👋, I'm Sabbir Hossen, a Computer Science graduate passionate about Machine Learning, especially in Computer Vision and Natural Language Processing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir5622r&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir5622r" /> </p>
 
