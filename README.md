@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir5622r&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir5622r" /> </p>
 
-- 🔭 I’m currently working on **Detect Chat Generative Platform using ML, DL and NLP**
+- 🔭 I’m currently working on several research projects in the fields of **computer vision (CV) and natural language processing (NLP).**
 
 - 🌱 I’m currently learning **Cyber Security and JavaScript.**
 
-- 👯 I’m looking to collaborate on **Any Machine Learning, Deep Learning and Natural Language Processing and Cyber Security related research project.**
+- 👯  I’m open to collaborations on projects related to **Natural Language Processing and Computer Vision, or any related area.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sabbir5622r](https://github.com/sabbir5622r)
 
