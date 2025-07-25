@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabbir Hossen</h1>
-<h3 align="center">A Passionate Machine Learning, Deep Learning, Natural Language Processing, Image Processing, Computer Vision and Cyber Security enthusiastic</h3>
+<h3 align="center">I’m Sabbir Hossen, a Computer Science graduate passionate about Machine Learning, especially in Computer Vision and Natural Language Processing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir5622r&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir5622r" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sabbir5622r](https://github.com/sabbir5622r)
 
-- 📫 Reach me **sabbirhossen5622@gmail.com**
+- 📫 Reach me **sabbir.hossen@bu.edu.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
