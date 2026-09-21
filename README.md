@@ -38,7 +38,7 @@ I am a recent Computer Science graduate from Bangladesh University with a strong
   />
   <img
     src="https://img.shields.io/badge/AI for Low-Resource Setting-0F766E?style=for-the-badge"
-    alt="AI for Low-Resource Setting"
+    alt="AI for Low Resource Setting"
   />
 </p>
 
