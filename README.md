@@ -14,8 +14,8 @@ I am a recent Computer Science graduate from Bangladesh University with a strong
 <p align="center">
   <a href="https://www.sabbir-hossen.com">
     <img
-      src="https://img.shields.io/badge/Personal Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Personal Website"
+      src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Website"
     />
   </a>
   &nbsp;
@@ -86,30 +86,16 @@ I am a recent Computer Science graduate from Bangladesh University with a strong
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/NLTK-%23337AB7.svg?style=for-the-badge&logo=python&logoColor=white" alt="NLTK" />
 </p>
 
 <h5 align="left">🛠️ Tools & Platforms:</h5>
 <p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Mendeley-9A1F2E?style=for-the-badge&logo=mendeley&logoColor=white" alt="Mendeley" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/HuggingFace-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="HuggingFace Transformer" />
+</p>
 
 
 
-<!--
-<h3 align="left">📊 GitHub Stats:</h3>
-
-![](https://github-readme-stats.vercel.app/api?username=sabbir5622r&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sabbir5622r&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir5622r&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
