@@ -11,6 +11,23 @@
 I am a recent Computer Science graduate from Bangladesh University with a strong foundation in Machine Learning, and I am currently working as a Research Assistant at at National Institute of Textile Engineering and Research. My research focuses on natural language processing, computer vision, and multimodal AI, with an emphasis on efficient models and low-resource language understanding. I aim to develop reliable, context-aware AI systems for resource-constrained settings.
 </p>
 
+<p align="center">
+  <a href="https://www.sabbir-hossen.com">
+    <img
+      src="https://img.shields.io/badge/Personal Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Personal Website"
+    />
+  </a>
+  &nbsp;
+  <a href="mailto:sabbir.hossen@bu.edu.bd">
+    <img
+      src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="sabbir.hossen@bu.edu.bd"
+    />
+  </a>
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sabbir5622r&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir5622r" /> </p>
 
 <h3 align="center">Research Interests</h3>
 
@@ -42,23 +59,9 @@ I am a recent Computer Science graduate from Bangladesh University with a strong
   />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir5622r&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir5622r" /> </p>
 
-<p align="center">
-  <a href="https://www.sabbir-hossen.com">
-    <img
-      src="https://img.shields.io/badge/Personal Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Personal Website"
-    />
-  </a>
-  &nbsp;
-  <a href="mailto:sabbir.hossen@bu.edu.bd">
-    <img
-      src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="sabbir.hossen@bu.edu.bd"
-    />
-  </a>
-</p>
+
+
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
