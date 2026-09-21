@@ -44,18 +44,20 @@ I am a recent Computer Science graduate from Bangladesh University with a strong
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir5622r&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir5622r" /> </p>
 
-- 🔭 I’m currently working on several research projects in the fields of **computer vision and natural language processing.**
-
-- 🌱 I’m currently learning **Cyber Security and JavaScript.**
-
-- 👯  I’m open to collaborations on projects related to **Natural Language Processing and Computer Vision.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sabbir5622r](https://github.com/sabbir5622r)
-
 <p align="center">
-  <a href="https://www.sabbir-hossen.com">YOUR_WEBSITE_URL</a>
-  &nbsp; | &nbsp;
-  <a href="mailto:sabbir.hossen@bu.edu.bd">sabbir.hossen@bu.edu.bd</a>
+  <a href="https://www.sabbir-hossen.com">
+    <img
+      src="https://img.shields.io/badge/YOUR_WEBSITE_URL-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Personal Website"
+    />
+  </a>
+  &nbsp;
+  <a href="mailto:sabbir.hossen@bu.edu.bd">
+    <img
+      src="https://img.shields.io/badge/sabbir.hossen%40bu.edu.bd-0F766E?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="sabbir.hossen@bu.edu.bd"
+    />
+  </a>
 </p>
 
 <h3 align="left">🌐 Connect with me:</h3>
