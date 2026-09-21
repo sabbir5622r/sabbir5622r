@@ -37,7 +37,7 @@ I am a recent Computer Science graduate from Bangladesh University with a strong
     alt="Efficient AI"
   />
   <img
-    src="https://img.shields.io/badge/Model_Compression-0F766E?style=for-the-badge"
+    src="https://img.shields.io/badge/AI for Low-Resource Setting-0F766E?style=for-the-badge"
     alt="AI for Low-Resource Setting"
   />
 </p>
@@ -52,7 +52,11 @@ I am a recent Computer Science graduate from Bangladesh University with a strong
 
 - 👨‍💻 All of my projects are available at [https://github.com/sabbir5622r](https://github.com/sabbir5622r)
 
-- 📫 Reach me **sabbir.hossen@bu.edu.bd**
+<p align="center">
+  <a href="https://www.sabbir-hossen.com">YOUR_WEBSITE_URL</a>
+  &nbsp; | &nbsp;
+  <a href="mailto:sabbir.hossen@bu.edu.bd">sabbir.hossen@bu.edu.bd</a>
+</p>
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
