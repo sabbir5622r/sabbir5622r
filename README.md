@@ -7,8 +7,8 @@
 </p>
 
 
-<p align="center">
- I am a recent Computer Science graduate from Bangladesh University with a strong foundation in Machine Learning, and I am currently working as a Research Assistant at at National Institute of Textile Engineering and Research. My research focuses on natural language processing, computer vision, and multimodal AI, with an emphasis on efficient models and low-resource language understanding. I aim to develop reliable, context-aware AI systems for resource-constrained settings.
+<p align="justify">
+I am a recent Computer Science graduate from Bangladesh University with a strong foundation in Machine Learning, and I am currently working as a Research Assistant at at National Institute of Textile Engineering and Research. My research focuses on natural language processing, computer vision, and multimodal AI, with an emphasis on efficient models and low-resource language understanding. I aim to develop reliable, context-aware AI systems for resource-constrained settings.
 </p>
 
 
@@ -24,38 +24,21 @@
     alt="Computer Vision"
   />
   <img
-    src="https://img.shields.io/badge/Multimodal_AI-0891B2?style=for-the-badge"
-    alt="Multimodal AI"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://img.shields.io/badge/Large_Language_Models-059669?style=for-the-badge"
     alt="Large Language Models"
   />
+<p align="center">
   <img
     src="https://img.shields.io/badge/Vision--Language_Models-DB2777?style=for-the-badge"
     alt="Vision-Language Models"
   />
-  <img
-    src="https://img.shields.io/badge/Multimodal_Representation_Learning-4F46E5?style=for-the-badge"
-    alt="Multimodal Representation Learning"
-  />
-</p>
-
-<p align="center">
   <img
     src="https://img.shields.io/badge/Efficient_AI-EA580C?style=for-the-badge"
     alt="Efficient AI"
   />
   <img
     src="https://img.shields.io/badge/Model_Compression-0F766E?style=for-the-badge"
-    alt="Model Compression"
-  />
-  <img
-    src="https://img.shields.io/badge/Low--Resource_Multilingual_NLP-475569?style=for-the-badge"
-    alt="Low-Resource Multilingual NLP"
+    alt="AI for Low-Resource Setting"
   />
 </p>
 
