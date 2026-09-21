@@ -37,7 +37,7 @@ I am a recent Computer Science graduate from Bangladesh University with a strong
     alt="Efficient AI"
   />
   <img
-    src="https://img.shields.io/badge/AI for Low-Resource Setting-0F766E?style=for-the-badge"
+    src="https://img.shields.io/badge/AI for Low--Resource Setting-0F766E?style=for-the-badge"
     alt="AI for Low Resource Setting"
   />
 </p>
@@ -47,14 +47,14 @@ I am a recent Computer Science graduate from Bangladesh University with a strong
 <p align="center">
   <a href="https://www.sabbir-hossen.com">
     <img
-      src="https://img.shields.io/badge/YOUR_WEBSITE_URL-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"
+      src="https://img.shields.io/badge/Personal Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"
       alt="Personal Website"
     />
   </a>
   &nbsp;
   <a href="mailto:sabbir.hossen@bu.edu.bd">
     <img
-      src="https://img.shields.io/badge/sabbir.hossen%40bu.edu.bd-0F766E?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white"
       alt="sabbir.hossen@bu.edu.bd"
     />
   </a>
@@ -64,12 +64,9 @@ I am a recent Computer Science graduate from Bangladesh University with a strong
 <p align="left">
 <a href="https://twitter.com/sabbir5622r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabbir5622r" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sabbir5622r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir5622r" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sabbir5622r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sabbir5622r" height="30" width="40" /></a>
 <a href="https://kaggle.com/sabbir5622r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sabbir5622r" height="30" width="40" /></a>
 <a href="https://fb.com/sabbir5622r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabbir5622r" height="30" width="40" /></a>
 <a href="https://instagram.com/sabbir5622r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabbir5622r" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sabbir5622r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sabbir5622r" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sabbir5622r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sabbir5622r" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
@@ -79,8 +76,6 @@ I am a recent Computer Science graduate from Bangladesh University with a strong
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 </p>
 
 <h5 align="left">📦 Python Libraries:</h5>
