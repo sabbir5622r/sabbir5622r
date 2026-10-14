@@ -1,4 +1,3 @@
-<!--
 
 <p align="center">
   <img
@@ -8,11 +7,12 @@
   />
 </p>
 
+<!--
 
 <p align="justify">
 I am a recent Computer Science graduate from Bangladesh University with a strong foundation in Machine Learning, and I am currently working as a Research Assistant at at National Institute of Textile Engineering and Research. My research focuses on natural language processing, computer vision, and multimodal AI, with an emphasis on efficient models and low-resource language understanding. I aim to develop reliable, context-aware AI systems for resource-constrained settings.
 </p>
--->
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sabbir5622r&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir5622r" /> </p>
 
 <!--
